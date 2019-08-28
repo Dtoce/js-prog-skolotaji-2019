@@ -1,0 +1,3 @@
+function nonemt() {
+    masivs.pop(); 
+    }
